@@ -2,7 +2,7 @@
 virustio
 ========
 
-Game published in the Game Jam 2009 http://archive.globalgamejam.org/games/virus
+[Game published in the Game Jam 2009](http://archive.globalgamejam.org/games/virus)
 
 Authors
 -------
